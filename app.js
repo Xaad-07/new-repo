@@ -1,5 +1,6 @@
 btn = document.querySelector('#myButton');
-btn.addEventListener('click', function() {
+btn.addEventListener('click', function()
+ {
   alert('Button clicked!');
 });
 
